@@ -1,3 +1,3 @@
-name = "Alian"
+name = "Batman"
 lastname = "Gamarra"
-print("hola "+name+" "+lastname+" como estas")
+print("hola "+name+" "+lastname+" como estasss")
